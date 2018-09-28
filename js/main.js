@@ -1,12 +1,12 @@
-import Dom     from './libs/dom'
-import Music   from './libs/music'
-import Mv      from './libs/mv'
-import Number  from './libs/number'
-import Jfen    from './libs/jfen'
-import Opacity from './libs/opacity'
-import Lianji  from './libs/lianji'
-import Dx      from './libs/dx'
-import {gAds} from './libs/ggao'
+import Dom     from './libs/dom';
+import Music   from './libs/music';
+import Mv      from './libs/mv';
+import Number  from './libs/number';
+import Jfen    from './libs/jfen';
+import Opacity from './libs/opacity';
+import Lianji  from './libs/lianji';
+import Dx      from './libs/dx';
+import {gAds} from './libs/ggao';
 
 window.ctx = canvas.getContext('2d');
 window.clip = false;
